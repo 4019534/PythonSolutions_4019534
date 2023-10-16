@@ -18,5 +18,6 @@ This section required the use of the TuringBot approach. After downloading the s
 
 All these scripts are included in the folders specific to sections of thev project that require them and all 3 folders are contained in the PythonSolution_4019534 folder that is uploaded to iKamva as PythonSolution_4019534 .zip 
 
-# Student name: Fatima Gamieldien # Student number: 4019534
+# Student name: Fatima Gamieldien
+# Student number: 4019534
   
