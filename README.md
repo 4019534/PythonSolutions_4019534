@@ -3,8 +3,14 @@
 This project is a combination of 3 parts, all with the goal of generating a strong password using a weak password inputted by the user.
 
 In the PythonSolutions_4019534 folder, we have:
+
+
   • Part1 folder
+
+  
   • Part2 folder
+
+  
   • Part3 folder
 
 # Part1 folder (Part 1)
